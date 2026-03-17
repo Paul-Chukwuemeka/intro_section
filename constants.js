@@ -4,6 +4,13 @@
 //
 
 export const data = {
+
+  images:[
+    "/images/client-databiz.svg",
+    "/images/client-audiophile.svg",
+    "/images/client-meet.svg",
+    "/images/client-maker.svg",
+  ],
   navLinks: [
     {
       name: "Features",
@@ -50,8 +57,7 @@ export const data = {
     },
   ],
   button: "Learn more",
-  heading: "Make remote work",
-  subHeading:
+    subHeading:
     " Get your team in sync, no matter your location. Streamline processes. create team rituals, and watch productivity soar",
   image: "/image/image-hero-desktop.png",
 };
